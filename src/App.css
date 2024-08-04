@@ -1,0 +1,11 @@
+.outer-pokedsk{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+}

@@ -5,7 +5,6 @@ import './Pokedesk.css';
 function Pokedexk(){
     return(
         <div className="Pokedesk-wrapper">
-       <h1 id="heading"> Pokedesk</h1>
         <Search/>
         <PokemonList/>
         </div>
